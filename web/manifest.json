@@ -1,6 +1,6 @@
 {
-    "name": "zego_sdk_quick_start",
-    "short_name": "zego_sdk_quick_start",
+    "name": "pkbattles",
+    "short_name": "pkbattles",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
